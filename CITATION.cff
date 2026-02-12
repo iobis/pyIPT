@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "pyIPT"
+
+url: "https://github.com/YOUR-ORG/YOUR-REPO"
+authors:
+  - family-names: Pye
+    given-names: Jonathan
+    orcid: "https://orcid.org/0000-0003-2807-5867"
+  - family-names: Biddle
+    given-names: Mathew
+    orcid: "https://orcid.org/0000-0003-4897-1669"
+  - family-names: Formel
+    given-names: Stephen
+    orcid: "https://orcid.org/0000-0001-7418-1244"
