@@ -1,0 +1,25 @@
+[project]
+name = "pyIPT"
+version = "0.1"
+authors = [
+  { name="Jon Pye", email="jonpye@gmail.com" },
+  { name="Mathew Biddle", email="" },
+  { name="Stephen Formel", email="" }
+]
+description = "A Python module for interacting with, registering, and publishing datasets to an Integrated Publishing Toolkit, using `requests`."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "requests",
+  "bs4"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "CC-BY-4.0"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/iobis/pyIPT"
+Issues = "https://github.com/iobis/pyIPT/issues"
