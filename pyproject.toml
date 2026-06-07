@@ -11,6 +11,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
   "requests",
+  "requests_toolbelt",
   "bs4"
 ]
 classifiers = [
